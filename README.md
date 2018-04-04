@@ -1,27 +1,14 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## About
+This App is using the API https://www.themoviedb.org/  to consume some movies from database and show into the app.
 
-## How to use this template
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+## How to use 
+First, on your terminal type " git clone https://github.com/matheusribeirog/ionic-3-para-iniciantes.git " 
+**Run the app:
+cd ionic-3-para-iniciantes
+ionic serve
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+## Important
+Make sure you have instaled Node.JS and Ionic https://ionicframework.com/getting-started
 
-### With the Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
-```
-
-Then, to run it, cd into `myTabs` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
-"# ionic-3-para-iniciantes" 
