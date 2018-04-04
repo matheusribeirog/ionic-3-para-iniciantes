@@ -4,7 +4,7 @@ This App is using the API https://www.themoviedb.org/  to consume some movies fr
 
 ## How to use 
 First, on your terminal type " git clone https://github.com/matheusribeirog/ionic-3-para-iniciantes.git " 
-**Run the app:
+** Run the app:
 cd ionic-3-para-iniciantes
 ionic serve
 
